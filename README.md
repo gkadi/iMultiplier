@@ -2,7 +2,7 @@
 
 Version 1.0.0
 
-Quickly generates images with dynamic content: Invitations, Identifiers, Labels, etc. And Share them automatically.
+An Android app that allows you to quickly multiply images with dynamic content such as invitations, identifiers, labels, etc. and share them automatically.
 
 Made with love.
 
